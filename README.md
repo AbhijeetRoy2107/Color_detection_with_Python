@@ -25,11 +25,12 @@ A simple python project which can detect the colours in an image.<br>
 8. In the file name ,test1.jpg or test2.jpg can be used.
 9. Use the GUI to start color detection.
 10. Double click on the area where you want to detect the color.
+11. Use `Esc` to exit the cmd window.
 
 ## Credits
 
 The CSV file for our dataset has been taken from this link
-<a href="https://github.com/codebrainz/color-names/blob/master/output/colors.csv">Color.csv</a>
+<a href="https://github.com/codebrainz/color-names/blob/master/output/colors.csv">Color.csv</a><br>
 The colors.csv file includes 865 color names along with their RGB and hex values.
 
 
