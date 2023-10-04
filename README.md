@@ -30,6 +30,7 @@ A simple python project which can detect the colours in an image.<br>
 
 The CSV file for our dataset has been taken from this link
 <a href="https://github.com/codebrainz/color-names/blob/master/output/colors.csv">Color.csv</a>
+The colors.csv file includes 865 color names along with their RGB and hex values.
 
 
 
