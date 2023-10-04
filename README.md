@@ -27,6 +27,10 @@ A simple python project which can detect the colours in an image.<br>
 10. Double click on the area where you want to detect the color.
 11. Use `Esc` to exit the cmd window.
 
+The same steps can be followed in any IDE(let's say VS Code).
+1. Open the parent folder `color_detection` in VS Code.
+2. Open a new terminal and use the command `python main.py -i *filr-name.jpg*`. 
+
 ## Credits
 
 The CSV file for our dataset has been taken from this link
