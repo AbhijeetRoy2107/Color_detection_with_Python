@@ -17,8 +17,14 @@ A simple python project which can detect the colours in an image.<br><br>
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run the project by executing the main script.
-4. Use the GUI to upload an image and start color detection.
+3. Pandas,Numpy and OpenCv must be installed in the local machine.
+4. Run the project by executing the main.py in cmd.
+5. Go to the project parent folder `color-detection`.
+6. Type `cmd` in the path-box and press `Enter` to open cmd in the folder.
+7. Run the command `python main.py -i *file-name.jpg*`.
+8. In the file name ,test1.jpg or test2.jpg can be used.
+9. Use the GUI to start color detection.
+10. Double click on the area where you want to detect the color.
 
 
 
