@@ -1,5 +1,5 @@
 # Color_detection_with_Python
-A simple python project which can detect the colours in an image.<br><br>
+A simple python project which can detect the colours in an image.<br>
 
 ## Dependencies
 1. Python
